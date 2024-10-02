@@ -1,0 +1,7 @@
+Download 
+PHPWord and tcpdf Libraries First From Following links
+
+https://github.com/PHPOffice/PHPWord
+
+https://tcpdf.org/
+
